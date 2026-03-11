@@ -60,7 +60,7 @@
   <project path="hardware/qcom/wlan" name="AOSPA/android_hardware_qcom_wlan" remote="aospa" />
 
   <!-- Hardware (Lineage) -->
-  <project path="hardware/lineage/compat" name="AOSPA/android_hardware_lineage_compat" remote="aospa" />
+  <project path="hardware/lineage/compat" name="aospa-asteroids/android_hardware_lineage_compat" remote="aospa" />
 
   <!-- Inline kernel build -->
   <project path="prebuilts/clang/kernel/linux-x86/clang-r416183b" name="LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b" clone-depth="1" remote="github" revision="lineage-20.0" />
